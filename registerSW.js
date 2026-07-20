@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/commonworks-play/sw.js', { scope: '/commonworks-play/' })})}
