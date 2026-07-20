@@ -1,10 +1,10 @@
 ﻿{
     "schemaVersion":  1,
-    "sourceSha":  "d1b9f94c8715201832cb270126df82693923de88",
+    "sourceSha":  "2b5052bb7fc8df9f58374fd42f8a003dd028a56c",
     "includedIssues":  [
                            {
-                               "issue":  167,
-                               "mergeSha":  "736152fa99ea62ce6e06aba5ef645f43e3e3e905"
+                               "issue":  192,
+                               "mergeSha":  "c2b5ef848223ac8d556368a1b83d97b3fc6d6a26"
                            }
                        ]
 }
