@@ -1,10 +1,1 @@
-{
-    "schemaVersion":  1,
-    "sourceSha":  "6612a92cb8cc372e21d0a542151e7fe2f0e15eeb",
-    "includedIssues":  [
-                           {
-                               "issue":  223,
-                               "mergeSha":  "8a4d222bc551b3f22a9aae85fd30e73378aa8553"
-                           }
-                       ]
-}
+{"includedIssues":[{"issue":226,"mergeSha":"b3f39105b1b16c4787fb60d808b61fc20727fe5b"}],"schemaVersion":1,"sourceSha":"2dd02f7292be91f2f17f4230bb765524e8e4c52e"}
